@@ -1,0 +1,21 @@
+h1 { color: rgb(181, 9, 9);
+    text-align: center;
+    font-size: 100px;
+
+}
+
+body { background-color: dimgray;
+
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3{
+    color: beige;
+    font-size: 29px;
+    text-align: center;
+}
